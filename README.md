@@ -4,7 +4,8 @@
 
 ## My Experience 👨‍💻 
 
-- Currently a **Software Engineering Intern** at [_Memorial Sloan Kettering Cancer Center_](https://www.mskcc.org/) working on mobile development 
+- Currently a **Software Engineering Intern** at [_NBCUniversal_](https://www.nbcuniversal.com/) 
+- **Software Engineering Intern** at [_Memorial Sloan Kettering Cancer Center_](https://www.mskcc.org/) working on mobile development 
 - **Full Stack Developer Intern** at [_Unadat_](https://unadat.com/) where I did PHP, JQuery, and MySQL
 
 ## My Projects 🏗️ 
